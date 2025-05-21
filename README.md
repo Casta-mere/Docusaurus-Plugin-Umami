@@ -10,13 +10,14 @@ Use Umami to add Data Analytics to Docusaurus site
 
 # Usage
 
-Visit [Docusaurus Umami](https://www.castamerego.com/docs/Server/Docusaurus-Umami) to add Umami to your Docusaurus site
+Tutorial/教程: Visit [Docusaurus Umami](https://www.castamerego.com/docs/Server/Docusaurus-Umami) to add Umami to your Docusaurus site
 
 In short:
 
 1. copy Docusaurus-plugin-umami.js to /src/plugins of your Docusaurus site
 2. Deploy Umami and get the `data-website-id`
-3. Modify the docusaurus.config.js
+3. Modify the Docusaurus-plugin-umami.js
+4. Modify the docusaurus.config.js
 
 ```js
   ...
